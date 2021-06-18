@@ -1,0 +1,3 @@
+0 Poisonous
+1 Edible   
+2 Undefined
